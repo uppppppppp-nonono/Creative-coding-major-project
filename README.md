@@ -1,9 +1,9 @@
 # Creative-coding-major-project
-# Week 9 – Time-Based Mosaic Animation  
+# Time-Based Mosaic Animation  
 ### Functional Prototype (Individual Submission)
 Student: Xin Liu
 This project is an individual extension of our group’s Week 7 mosaic-reconstruction code.  
-My individual version implements **Week 9’s time-based animation** requirements using p5.js, timers, and event-driven interactions.
+My individual version implements **time-based animation** requirements using p5.js, timers, and event-driven interactions.
 
 ---
 
